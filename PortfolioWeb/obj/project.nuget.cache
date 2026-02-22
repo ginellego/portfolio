@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0wJRfx4YS+8=",
+  "dgSpecHash": "8EC+3VxnNvs=",
   "success": true,
   "projectFilePath": "/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/PortfolioWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ginelletemull/.nuget/packages/microsoft.netcore.app.ref/8.0.24/microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "/Users/ginelletemull/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.24/microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "/Users/ginelletemull/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.24/microsoft.netcore.app.host.osx-arm64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -94,5 +94,13 @@
 /Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/PortfolioWeb.pdb
 /Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/PortfolioWeb.genruntimeconfig.cache
 /Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/ref/PortfolioWeb.dll
-/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/compressed/vvz3g6r14m-{0}-npcv7440fc-npcv7440fc.gz
-/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/compressed/fzj5s3wbyv-{0}-a8f294c07z-a8f294c07z.gz
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/web.config
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/appsettings.Development.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/appsettings.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/PortfolioWeb.deps.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/PortfolioWeb.runtimeconfig.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/publish/PortfolioWeb.staticwebassets.endpoints.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Debug/net10.0/vercel.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/PortfolioWeb.sourcelink.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/compressed/fzj5s3wbyv-{0}-2oegr7327l-2oegr7327l.gz
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/obj/Debug/net10.0/compressed/vvz3g6r14m-{0}-n7a5ghrnzk-n7a5ghrnzk.gz

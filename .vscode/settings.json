@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "PortfolioWeb/bin/Release/net10.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3621256e-3bf5-4a2c-819c-ff56a5c71912/resourceGroups/appsvc_windows_canadacentral/providers/Microsoft.Web/sites/ginelle-portfolio"
+}
