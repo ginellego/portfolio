@@ -1,0 +1,92 @@
+@page
+@model PortfolioModel
+@{
+    ViewData["Title"] = "Portfolio page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Portfolio</h1>
+    <p id="portfolio" style="padding-top: 20px"></p>
+
+    <div class="row justify-content-center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+        <div class="card mb-3" style="width: 18rem; $card-height: 100%;" id= "card">
+            <div class="card-body">
+                <h5 class="card-title" id="project1"></h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary" id="project1sub"></h6>
+                <p class="card-text" id="project1text"></p>
+                <a id= "project1link" href="#" class="card-link" target="_blank">View Project on GitHub</a>
+            </div>
+        </div> 
+
+        <div class="card mb-3" style="width: 18rem; $card-height: 100%;" id= "card">
+            <div class="card-body">
+                <h5 class="card-title" id="project2"></h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary" id="project2sub"></h6>
+                <p class="card-text" id="project2text"></p>
+                <a id= "project2link" href="#" class="card-link" target="_blank">View Project on GitHub</a>
+            </div>
+        </div>
+
+        <div class="card mb-3" style="width: 18rem; $card-height: 100%;" id= "card">
+            <div class="card-body">
+                <h5 class="card-title" id="project3"></h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary" id="project3sub"></h6>
+                <p class="card-text" id="project3text"></p>
+                <a id= "project3link" href="#" class="card-link" target="_blank">View Project on GitHub</a>
+            </div>
+        </div>
+        <div class="card mb-3" style="width: 18rem; $card-height: 100%;" id= "card">
+            <div class="card-body">
+                <h5 class="card-title" id="project4"></h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary" id="project4sub"></h6>
+                <p class="card-text" id="project4text"></p>
+                <a id= "project4link" href="#" class="card-link" target="_blank">View Project on GitHub</a>
+            </div>
+        </div>
+        <div class="card mb-3" style="width: 18rem; $card-height: 100%;" id= "card">
+            <div class="card-body">
+                <h5 class="card-title" id="project5"></h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary" id="project5sub"></h6>
+                <p class="card-text" id="project5text"></p>
+                <a id= "project5link" href="#" class="card-link" target="_blank">View Project on GitHub</a> 
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // Ensure siteStrings is loaded
+            if (window.siteStrings) {
+                document.getElementById("portfolio").textContent = siteStrings.portfolio;
+                document.getElementById("project1").textContent = siteStrings.project1;
+                document.getElementById("project1sub").textContent = siteStrings.project1sub;
+                document.getElementById("project1text").textContent = siteStrings.project1text;
+                document.getElementById("project1link").href = siteStrings.project1link;
+                
+                document.getElementById("project2").textContent = siteStrings.project2;
+                document.getElementById("project2sub").textContent = siteStrings.project2sub;
+                document.getElementById("project2text").textContent = siteStrings.project2text;
+                document.getElementById("project2link").href = siteStrings.project2link;
+                
+                document.getElementById("project3").textContent = siteStrings.project3;
+                document.getElementById("project3sub").textContent = siteStrings.project3sub;
+                document.getElementById("project3text").textContent = siteStrings.project3text;
+                document.getElementById("project3link").href = siteStrings.project3link;
+
+                document.getElementById("project4").textContent = siteStrings.project4;
+                document.getElementById("project4sub").textContent = siteStrings.project4sub;
+                document.getElementById("project4text").textContent = siteStrings.project4text; 
+                document.getElementById("project4link").href = siteStrings.project4link;
+
+                document.getElementById("project5").textContent = siteStrings.project5;
+                document.getElementById("project5sub").textContent = siteStrings.project5sub;
+                document.getElementById("project5text").textContent = siteStrings.project5text; 
+                document.getElementById("project5link").href = siteStrings.project5link;
+            } else {
+                console.error("siteStrings not loaded");
+            }
+        });
+    </script>
+}

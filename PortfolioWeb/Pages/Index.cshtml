@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="text-center">
+    <h1 id="title" class="display-4">About Me</h1>
+    <p id="about-text" ></p>
+    <div class="image-container">
+        <img src="~/images/selfie.jpeg" alt="Ginelle" class="image1" />
+        <img src="~/images/poe.JPG" alt="Poe the cat" class="image1" />
+    </div>
+    <p id="contact" style="padding-top: 20px"></p>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById("about-text").textContent = siteStrings.about;
+        document.getElementById("contact").textContent = siteStrings.contact;
+    </script>
+}
