@@ -1,0 +1,7 @@
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/PortfolioWeb
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/appsettings.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/PortfolioWeb.dll
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/PortfolioWeb.deps.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/PortfolioWeb.runtimeconfig.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/PortfolioWeb.pdb

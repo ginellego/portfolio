@@ -1,0 +1,7 @@
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/PortfolioWeb
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/appsettings.Development.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/appsettings.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/PortfolioWeb.dll
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/PortfolioWeb.deps.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/PortfolioWeb.runtimeconfig.json
+/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/publish/PortfolioWeb.pdb

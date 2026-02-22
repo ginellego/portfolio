@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish",
+      "program": "/Users/ginelletemull/Docs/Coding Projects/Portfolio-Web/PortfolioWeb/bin/Release/net8.0/publish/build/Debug/outDebug"
+    }
+  ]
+}
